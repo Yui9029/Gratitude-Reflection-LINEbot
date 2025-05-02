@@ -1,0 +1,9 @@
+# clasp の認証情報
+.clasp.json
+.clasprc.json
+
+# OS／エディタ固有ファイル
+node_modules/
+*.log
+
+# （任意でキャッシュやバックアップを追加）
